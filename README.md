@@ -1,4 +1,4 @@
-# 👋 Hi, ich bin [Dein Name]
+# 👋 Hi, ich bin [Philipp Becksmann]
 
 🎮 Indie Game Developer & Backend Developer in Ausbildung  
 📍 Hamburg, Deutschland  
