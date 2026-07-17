@@ -1,86 +1,136 @@
+<div align="center">
+
 # Hallo, ich bin Philipp 👋
 
-### Angehender Softwareentwickler mit Fokus auf KI, Python und Backend-Entwicklung
+### Angehender Softwareentwickler mit Fokus auf
+
+### AI Engineering · Agentic Coding · Python · Backend Development
 
 📍 Hamburg, Deutschland
-🤖 Aktuell beschäftige ich mich mit **AI Engineering, Agentic Coding und LLM-Anwendungen**
-🐍 Ich entwickle Projekte mit **Python, Pydantic AI und Gradio**
-🎮 Zusätzlich arbeite ich an **FiveM-Ressourcen und Backend-Systemen**
+
+Ich entwickle KI-gestützte Anwendungen, autonome Agenten, Backends und Automatisierungen.
+Dabei verbinde ich moderne Sprachmodelle mit strukturierten Python-Anwendungen und benutzerfreundlichen Oberflächen.
+
+</div>
 
 ---
 
-## Über mich
+## 👨‍💻 Über mich
 
-Ich befinde mich derzeit auf meinem Weg in die professionelle Softwareentwicklung.
+Ich befinde mich auf meinem Weg in die professionelle Softwareentwicklung und lerne vor allem durch eigene Praxisprojekte.
 
-Mein Schwerpunkt liegt auf der Entwicklung von Anwendungen, bei denen moderne KI-Modelle mit klassischen Backend-Systemen verbunden werden. Dabei beschäftige ich mich besonders mit:
+Mein aktueller Schwerpunkt liegt auf:
 
-* KI-gestützter Softwareentwicklung
-* autonomen Coding-Agenten und Agent-Workflows
-* Python-Backends
-* LLM-Integration und strukturierten Ausgaben
+* Entwicklung von KI-Agenten und LLM-Anwendungen
+* Agentic Coding mit Cursor, Codex und Claude Code
+* Python-Backends und API-Integration
+* strukturierten Ausgaben mit Pydantic
+* Tool Calling und automatisierten Workflows
 * Webanwendungen und Benutzeroberflächen
-* FiveM- und GTA-RP-Systemen
+* FiveM- und GTA-RP-Systemen mit Lua
+* sauberer Dokumentation und Projektarchitektur
 
-Ich lerne praxisorientiert und dokumentiere meine Fortschritte durch eigene Projekte auf GitHub.
+Mein Ziel ist es, vollständige Anwendungen vom ersten Konzept bis zum Deployment mithilfe moderner KI-Werkzeuge umzusetzen.
 
 ---
 
-## Aktueller Tech-Stack
+## 🧠 Aktuelle Schwerpunkte
+
+```text
+AI Engineering        ███████████████████░
+Agentic Coding        ██████████████████░░
+Python Development    █████████████████░░░
+Backend Development   ███████████████░░░░░
+Web Development       ████████████░░░░░░░░
+FiveM Development     ██████████░░░░░░░░░░
+```
+
+---
+
+## 🛠️ Tech-Stack
 
 ### Programmiersprachen
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square\&logo=lua\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge\&logo=lua\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-### Frameworks und Tools
+### KI und Python
 
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square\&logo=pydantic\&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square\&logo=gradio\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visual-studio-code\&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge\&logo=pydantic\&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge\&logo=gradio\&logoColor=white)
 
-### Entwicklungsumgebung
+### Backend und Datenbanken
 
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square\&logo=windows\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square\&logo=cursor\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+
+### Entwicklungswerkzeuge
+
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge\&logo=cursor\&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge\&logo=anthropic\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge\&logo=windows\&logoColor=white)
 
 ---
 
-## Ausgewählte Projekte
+## 🚀 Ausgewählte Projekte
 
 ### 🤖 Python-Chatbot mit Pydantic AI und Gradio
 
-Ein KI-Chatbot auf Basis von Python mit einer benutzerfreundlichen Gradio-Oberfläche.
+Ein modular aufgebauter KI-Chatbot mit Python, Pydantic AI und einer benutzerfreundlichen Gradio-Oberfläche.
 
-Geplante und eingesetzte Bestandteile:
+**Enthaltene Funktionen:**
 
 * Anbindung eines OpenAI-Sprachmodells
 * Agentenlogik mit Pydantic AI
-* strukturierte und validierte Ausgaben
 * Chatoberfläche mit Gradio
-* saubere Konfiguration über Umgebungsvariablen
-* modularer und erweiterbarer Aufbau
+* strukturierte und validierte Ausgaben
+* Verwaltung von Konfigurationen über Umgebungsvariablen
+* modularer Aufbau für spätere Erweiterungen
 
-**Technologien:** `Python` `Pydantic AI` `Gradio` `OpenAI API`
+**Technologien:**
+`Python` `Pydantic AI` `Gradio` `OpenAI API`
 
-[Repository ansehen](https://github.com/PhilippBecksmann/Python-Bot-mit-Gradio-Pydantic)
+[➡️ Repository ansehen](https://github.com/PhilippBecksmann/Python-Bot-mit-Gradio-Pydantic)
 
 ---
 
-### 🎮 Unwritten RP
+### 🔎 Deep-Research-Agent
+
+Weiterentwicklung meines Python-Chatbots zu einem Rechercheagenten für umfangreiche und aktuelle Analysen.
+
+**Geplante Funktionen:**
+
+* Prüfung des aktuellen Datums vor jeder Recherche
+* automatische Ermittlung relevanter Suchbegriffe
+* Webrecherche über DuckDuckGo
+* parallele Recherche verschiedener Themenbereiche
+* Betrachtung unterschiedlicher Perspektiven
+* strukturierte Zusammenführung der Quellen
+* Erstellung eines ausführlichen Abschlussberichts
+* transparente Quellenangaben
+
+**Geplanter Tech-Stack:**
+`Python` `Pydantic AI` `Gradio` `OpenAI API` `DuckDuckGo Search`
+
+> Dieses Projekt befindet sich aktuell in Planung und Entwicklung.
+
+---
+
+### 🏙️ Unwritten RP
 
 Ein eigenständig aufgebautes FiveM- und GTA-V-Roleplay-Projekt mit eigener Backend-Infrastruktur.
 
-Bestandteile des Projekts:
+**Bestandteile:**
 
 * Administrationsoberfläche
 * Spieler- und Jobverwaltung
@@ -88,20 +138,22 @@ Bestandteile des Projekts:
 * JWT-Authentifizierung
 * MySQL-Datenbank
 * eigene FiveM-Ressourcen mit Lua
-* Serverbetrieb unter Linux
-* Domain, SSL und Prozessverwaltung
+* Linux-Serverbetrieb
+* SSL, Domain und Prozessverwaltung
+* cineastische Einreise für neue Spieler
 
-**Technologien:** `Node.js` `Express` `MySQL` `Lua` `HTML` `CSS` `JavaScript` `Linux`
+**Technologien:**
+`Node.js` `Express` `MySQL` `Lua` `JavaScript` `HTML` `CSS` `Linux` `JWT`
 
-[Repository ansehen](https://github.com/PhilippBecksmann/UnwrittenRP_Portfolio)
+[➡️ Repository ansehen](https://github.com/PhilippBecksmann/UnwrittenRP_Portfolio)
 
 ---
 
 ### 📚 JavaScript-Lernprojekt
 
-Ein strukturiertes Lernprojekt, mit dem ich meine JavaScript-Grundlagen praktisch vertiefe.
+Ein strukturiertes Lernprojekt, mit dem ich meine JavaScript-Grundlagen praktisch vertiefe und dokumentiere.
 
-Enthalten sind unter anderem:
+**Enthalten sind unter anderem:**
 
 * Übungen und Codebeispiele
 * Lernmaterialien
@@ -109,56 +161,84 @@ Enthalten sind unter anderem:
 * eine Taschenrechner-Anwendung
 * dokumentierte Lernfortschritte
 
-**Technologien:** `JavaScript` `HTML` `CSS`
+**Technologien:**
+`JavaScript` `HTML` `CSS`
 
-[Repository ansehen](https://github.com/PhilippBecksmann/JavaScriptLernprojekt)
+[➡️ Repository ansehen](https://github.com/PhilippBecksmann/JavaScriptLernprojekt)
 
 ---
 
-## Aktuell lerne ich
+## 📖 Aktuell lerne ich
 
 * Python für professionelle Anwendungen
 * Pydantic und Pydantic AI
-* Entwicklung von LLM-Agenten
+* Entwicklung autonomer LLM-Agenten
+* Multi-Agenten-Workflows
 * Tool Calling und strukturierte Ausgaben
-* Agentic Coding mit Codex, Cursor und Claude Code
+* Rechercheagenten und Web Search
 * API- und Backend-Entwicklung
-* Testing, Git und saubere Projektarchitektur
+* Agentic Coding mit Cursor, Codex und Claude Code
+* Testing und Fehlerbehandlung
+* Git- und GitHub-Workflows
+* saubere und wartbare Projektarchitektur
+* Deployment von Webanwendungen
 * Automatisierung wiederkehrender Arbeitsabläufe
 
 ---
 
-## Meine Ziele
+## 🎯 Meine Ziele
 
-Mein Ziel ist es, Anwendungen, Webdienste und Automatisierungen mithilfe moderner KI-Systeme zu entwickeln.
+Ich möchte moderne KI-Systeme nicht nur verwenden, sondern verstehen, planen und gezielt in vollständige Anwendungen integrieren.
 
 Langfristig möchte ich:
 
 * professionelle KI-Anwendungen entwickeln
-* Coding-Agenten zuverlässig steuern
-* eigene Webservices und Automatisierungen umsetzen
-* vollständige Anwendungen vom Konzept bis zum Deployment erstellen
+* zuverlässige Recherche- und Automatisierungsagenten erstellen
+* Coding-Agenten effektiv steuern
+* eigene Webservices und Backends entwickeln
+* Apps, Websites und interne Tools umsetzen
+* automatisierte Multi-Agenten-Workflows aufbauen
+* Anwendungen vom PRD bis zum Deployment realisieren
 * ein aussagekräftiges Entwicklerportfolio aufbauen
+* meine Fähigkeiten beruflich als Softwareentwickler einsetzen
 
 ---
 
-## GitHub-Aktivitäten
+## 📊 GitHub-Statistiken
 
-Auf meinem GitHub dokumentiere ich meinen Weg in die Softwareentwicklung und veröffentliche eigene Lern- und Praxisprojekte.
+<div align="center">
 
-Meine aktuellen Schwerpunkte:
+![Philipps GitHub Stats](https://github-readme-stats.vercel.app/api?username=PhilippBecksmann\&show_icons=true\&hide_border=true\&locale=de)
 
-- Python und KI-Anwendungen
-- Pydantic AI und LLM-Agenten
-- Backend- und API-Entwicklung
-- Automatisierungen und Agentic Coding
-- FiveM-Entwicklung mit Lua
-- Webentwicklung mit JavaScript
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilippBecksmann\&layout=compact\&hide_border=true\&locale=de)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=PhilippBecksmann\&hide_border=true\&locale=de)
+
+</div>
 
 ---
 
-## Kontakt
+## 🤝 Zusammenarbeit
 
-Du findest meine Projekte und Lernfortschritte direkt hier auf GitHub.
+Ich interessiere mich besonders für Projekte aus den Bereichen:
+
+* AI Engineering
+* Agentic Coding
+* Python-Entwicklung
+* LLM-Agenten
+* Backend-Systeme
+* Automatisierung
+* Webanwendungen
+* FiveM-Entwicklung
+
+---
+
+<div align="center">
+
+### Lernen. Entwickeln. Automatisieren.
+
+Ich dokumentiere auf GitHub meinen Weg in die Softwareentwicklung und veröffentliche regelmäßig neue Lern- und Praxisprojekte.
 
 [![GitHub](https://img.shields.io/badge/GitHub-PhilippBecksmann-181717?style=for-the-badge\&logo=github)](https://github.com/PhilippBecksmann)
+
+</div>
