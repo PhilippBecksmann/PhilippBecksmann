@@ -2,253 +2,260 @@
 
 # Hallo, ich bin Philipp 👋
 
-### Angehender Softwareentwickler mit Fokus auf
+### AI · Full-Stack · Backend · Agentic Coding
 
-### AI Engineering · Agentic Coding · Python · Backend Development
+Ich entwickle KI-gestützte Anwendungen, Webservices und Automatisierungen –
+von der ersten Idee über die Architektur bis zur funktionierenden Anwendung.
 
 📍 Hamburg, Deutschland
 
-Ich entwickle KI-gestützte Anwendungen, autonome Agenten, Backends und Automatisierungen.
-Dabei verbinde ich moderne Sprachmodelle mit strukturierten Python-Anwendungen und benutzerfreundlichen Oberflächen.
-
 </div>
 
 ---
 
-## 👨‍💻 Über mich
+## Über mich
 
-Ich befinde mich auf meinem Weg in die professionelle Softwareentwicklung und lerne vor allem durch eigene Praxisprojekte.
+Mein Schwerpunkt liegt auf der Verbindung von **moderner KI mit klassischer Softwareentwicklung**.
 
-Mein aktueller Schwerpunkt liegt auf:
+Aktuell entwickle ich unter anderem:
 
-* Entwicklung von KI-Agenten und LLM-Anwendungen
-* Agentic Coding mit Cursor, Codex und Claude Code
-* Python-Backends und API-Integration
-* strukturierten Ausgaben mit Pydantic
-* Tool Calling und automatisierten Workflows
-* Webanwendungen und Benutzeroberflächen
-* FiveM- und GTA-RP-Systemen mit Lua
-* sauberer Dokumentation und Projektarchitektur
+* autonome Recherche- und KI-Agenten
+* Full-Stack-Webanwendungen
+* Python-Backends und APIs
+* Finanz- und Datenanwendungen
+* Automatisierungen mit LLMs
+* FiveM-Ressourcen und Backend-Systeme
 
-Mein Ziel ist es, vollständige Anwendungen vom ersten Konzept bis zum Deployment mithilfe moderner KI-Werkzeuge umzusetzen.
+Dabei arbeite ich intensiv mit Coding-Agenten wie **OpenAI Codex, Claude Code und Cursor**. GitHub nutze ich, um meine Projekte, Lernfortschritte und wachsende Erfahrung in der Softwareentwicklung zu dokumentieren.
 
 ---
 
-## 🧠 Aktuelle Schwerpunkte
+## Aktueller Fokus
 
 ```text
-AI Engineering        ███████████████████░
-Agentic Coding        ██████████████████░░
-Python Development    █████████████████░░░
-Backend Development   ███████████████░░░░░
-Web Development       ████████████░░░░░░░░
-FiveM Development     ██████████░░░░░░░░░░
+AI Agents       ███████████████████░
+Full-Stack      █████████████████░░░
+Backend         ████████████████░░░░
+Automation      ███████████████░░░░░
+FiveM / Lua     ████████████░░░░░░░░
 ```
 
----
-
-## 🛠️ Tech-Stack
-
-### Programmiersprachen
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge\&logo=lua\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-### KI und Python
-
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge\&logo=openai\&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge\&logo=pydantic\&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge\&logo=gradio\&logoColor=white)
-
-### Backend und Datenbanken
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-
-### Entwicklungswerkzeuge
-
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge\&logo=cursor\&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge\&logo=anthropic\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge\&logo=windows\&logoColor=white)
+* Entwicklung zuverlässiger LLM-Agenten
+* Agentic Coding und autonome Entwicklungsworkflows
+* Full-Stack-Anwendungen mit Next.js und TypeScript
+* APIs, Datenbanken und Backend-Architekturen
+* strukturierte Ausgaben und Tool Calling
+* saubere, wartbare Projektstrukturen
 
 ---
 
-## 🚀 Ausgewählte Projekte
+## Ausgewählte Projekte
 
-### 🤖 Python-Chatbot mit Pydantic AI und Gradio
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Ein modular aufgebauter KI-Chatbot mit Python, Pydantic AI und einer benutzerfreundlichen Gradio-Oberfläche.
+### 💶 Finanz-App
 
-**Enthaltene Funktionen:**
+Eine moderne Full-Stack-Anwendung zur Verwaltung und übersichtlichen Darstellung persönlicher Finanzen.
 
-* Anbindung eines OpenAI-Sprachmodells
-* Agentenlogik mit Pydantic AI
-* Chatoberfläche mit Gradio
-* strukturierte und validierte Ausgaben
-* Verwaltung von Konfigurationen über Umgebungsvariablen
-* modularer Aufbau für spätere Erweiterungen
+**Schwerpunkte**
 
-**Technologien:**
+* Finanz-Dashboard
+* Einnahmen und Ausgaben
+* moderne Benutzeroberfläche
+* persistente Datenspeicherung
+* strukturierte Full-Stack-Architektur
+
+**Technologien**
+
+`Next.js` `TypeScript` `Prisma` `React`
+
+[Repository öffnen →](https://github.com/PhilippBecksmann/Finanz-App)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔎 Deep Research Agent
+
+Ein KI-Agent, der Themen selbstständig zerlegt, aktuelle Quellen recherchiert, Webseiten vollständig ausliest und daraus einen strukturierten Bericht erstellt.
+
+**Schwerpunkte**
+
+* mehrstufige Rechercheplanung
+* Live-Suche mit DuckDuckGo
+* Deep Reading von Webseiten
+* LLM-gestützte Zusammenfassungen
+* Berichte mit Quellenangaben
+
+**Technologien**
+
+`Python` `Pydantic AI` `Gradio` `OpenAI` `DuckDuckGo` `httpx`
+
+[Repository öffnen →](https://github.com/PhilippBecksmann/Deep-Research)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Python AI Chatbot
+
+Ein modularer KI-Chatbot mit Agentenlogik, validierten Ausgaben und einer benutzerfreundlichen Chatoberfläche.
+
+**Schwerpunkte**
+
+* OpenAI-Modellanbindung
+* Pydantic-AI-Agent
+* strukturierte Ausgaben
+* Gradio-Frontend
+* sichere Konfiguration mit Umgebungsvariablen
+
+**Technologien**
+
 `Python` `Pydantic AI` `Gradio` `OpenAI API`
 
-[➡️ Repository ansehen](https://github.com/PhilippBecksmann/Python-Bot-mit-Gradio-Pydantic)
+[Repository öffnen →](https://github.com/PhilippBecksmann/Python-Bot-mit-Gradio-Pydantic)
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🔎 Deep-Research-Agent
+### 🎮 Unwritten RP
 
-Weiterentwicklung meines Python-Chatbots zu einem Rechercheagenten für umfangreiche und aktuelle Analysen.
+Ein FiveM- und GTA-V-Roleplay-Projekt mit eigener Verwaltungsoberfläche und Backend-Infrastruktur.
 
-**Geplante Funktionen:**
-
-* Prüfung des aktuellen Datums vor jeder Recherche
-* automatische Ermittlung relevanter Suchbegriffe
-* Webrecherche über DuckDuckGo
-* parallele Recherche verschiedener Themenbereiche
-* Betrachtung unterschiedlicher Perspektiven
-* strukturierte Zusammenführung der Quellen
-* Erstellung eines ausführlichen Abschlussberichts
-* transparente Quellenangaben
-
-**Geplanter Tech-Stack:**
-`Python` `Pydantic AI` `Gradio` `OpenAI API` `DuckDuckGo Search`
-
-> Dieses Projekt befindet sich aktuell in Planung und Entwicklung.
-
----
-
-### 🏙️ Unwritten RP
-
-Ein eigenständig aufgebautes FiveM- und GTA-V-Roleplay-Projekt mit eigener Backend-Infrastruktur.
-
-**Bestandteile:**
+**Schwerpunkte**
 
 * Administrationsoberfläche
 * Spieler- und Jobverwaltung
-* Node.js- und Express-Backend
-* JWT-Authentifizierung
-* MySQL-Datenbank
-* eigene FiveM-Ressourcen mit Lua
-* Linux-Serverbetrieb
-* SSL, Domain und Prozessverwaltung
-* cineastische Einreise für neue Spieler
+* REST-Backend
+* Authentifizierung
+* Datenbankanbindung
+* eigene FiveM-Ressourcen
 
-**Technologien:**
-`Node.js` `Express` `MySQL` `Lua` `JavaScript` `HTML` `CSS` `Linux` `JWT`
+**Technologien**
 
-[➡️ Repository ansehen](https://github.com/PhilippBecksmann/UnwrittenRP_Portfolio)
+`Node.js` `Express` `MySQL` `Lua` `JavaScript` `Linux`
 
----
+[Repository öffnen →](https://github.com/PhilippBecksmann/UnwrittenRP_Portfolio)
 
-### 📚 JavaScript-Lernprojekt
-
-Ein strukturiertes Lernprojekt, mit dem ich meine JavaScript-Grundlagen praktisch vertiefe und dokumentiere.
-
-**Enthalten sind unter anderem:**
-
-* Übungen und Codebeispiele
-* Lernmaterialien
-* Karteikarten
-* eine Taschenrechner-Anwendung
-* dokumentierte Lernfortschritte
-
-**Technologien:**
-`JavaScript` `HTML` `CSS`
-
-[➡️ Repository ansehen](https://github.com/PhilippBecksmann/JavaScriptLernprojekt)
+</td>
+</tr>
+</table>
 
 ---
 
-## 📖 Aktuell lerne ich
+## Technologien
 
-* Python für professionelle Anwendungen
-* Pydantic und Pydantic AI
-* Entwicklung autonomer LLM-Agenten
-* Multi-Agenten-Workflows
-* Tool Calling und strukturierte Ausgaben
-* Rechercheagenten und Web Search
-* API- und Backend-Entwicklung
-* Agentic Coding mit Cursor, Codex und Claude Code
+### Sprachen
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,lua,html,css" alt="Programmiersprachen" />
+</p>
+
+### Frontend und Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,fastapi" alt="Frameworks" />
+</p>
+
+### Datenbanken und Infrastruktur
+
+<p>
+  <img src="https://skillicons.dev/icons?i=prisma,mysql,sqlite,git,github,linux" alt="Datenbanken und Infrastruktur" />
+</p>
+
+### KI und Entwicklungswerkzeuge
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,docker,postman" alt="Entwicklungswerkzeuge" />
+</p>
+
+`Pydantic AI` · `Gradio` · `OpenAI API` · `LLM Tool Calling` · `Cursor` · `Claude Code` · `OpenAI Codex`
+
+---
+
+## Wie ich entwickle
+
+```mermaid
+flowchart LR
+    A[Idee] --> B[Anforderungen]
+    B --> C[Architektur]
+    C --> D[Agentic Coding]
+    D --> E[Testen]
+    E --> F[Dokumentation]
+    F --> G[Deployment]
+```
+
+Ich nutze KI nicht nur zur Codegenerierung, sondern als Bestandteil eines strukturierten Entwicklungsprozesses:
+
+1. Anforderungen und Ziele definieren
+2. Architektur und Datenmodelle planen
+3. Coding-Agenten mit klaren Regeln steuern
+4. Ergebnisse prüfen, testen und verbessern
+5. Projekte dokumentieren und veröffentlichen
+
+---
+
+## Derzeit lerne und vertiefe ich
+
+* professionelle Python- und TypeScript-Entwicklung
+* Next.js und moderne React-Anwendungen
+* Pydantic AI und Multi-Agent-Systeme
+* Tool Calling und strukturierte LLM-Ausgaben
+* API-Design und Backend-Architektur
+* Datenmodellierung mit Prisma und SQL
 * Testing und Fehlerbehandlung
-* Git- und GitHub-Workflows
-* saubere und wartbare Projektarchitektur
-* Deployment von Webanwendungen
-* Automatisierung wiederkehrender Arbeitsabläufe
+* Docker, Deployment und CI/CD
+* Agentic Coding mit Codex, Claude Code und Cursor
 
 ---
 
-## 🎯 Meine Ziele
+## Roadmap
 
-Ich möchte moderne KI-Systeme nicht nur verwenden, sondern verstehen, planen und gezielt in vollständige Anwendungen integrieren.
-
-Langfristig möchte ich:
-
-* professionelle KI-Anwendungen entwickeln
-* zuverlässige Recherche- und Automatisierungsagenten erstellen
-* Coding-Agenten effektiv steuern
-* eigene Webservices und Backends entwickeln
-* Apps, Websites und interne Tools umsetzen
-* automatisierte Multi-Agenten-Workflows aufbauen
-* Anwendungen vom PRD bis zum Deployment realisieren
-* ein aussagekräftiges Entwicklerportfolio aufbauen
-* meine Fähigkeiten beruflich als Softwareentwickler einsetzen
+* [x] erste JavaScript-Anwendungen entwickeln
+* [x] eigenes FiveM-Backend umsetzen
+* [x] KI-Chatbot mit Pydantic AI entwickeln
+* [x] Deep-Research-Agent mit Websuche erstellen
+* [x] Full-Stack-Finanzanwendung starten
+* [ ] automatisierte Tests und CI/CD integrieren
+* [ ] Anwendungen mit Docker bereitstellen
+* [ ] produktionsreife KI-Webservices entwickeln
+* [ ] komplexere Multi-Agent-Workflows umsetzen
+* [ ] eigenes SaaS-Produkt veröffentlichen
 
 ---
 
-## 📈 Mein GitHub-Profil
+## Entwicklungsprinzipien
 
-Auf meinem GitHub-Profil dokumentiere ich meinen praktischen Lernweg und die Entwicklung meiner eigenen Projekte.
+> Nicht nur Code erzeugen lassen, sondern verstehen, strukturieren, prüfen und kontinuierlich verbessern.
 
-Dabei arbeite ich aktuell vor allem an:
+Mir sind besonders wichtig:
 
-* Python- und KI-Anwendungen
-* LLM-Agenten mit Pydantic AI
-* Agentic-Coding-Workflows
-* Backend- und API-Systemen
-* JavaScript- und Webprojekten
-* FiveM-Systemen mit Lua
-* sauber dokumentierten Praxisprojekten
-
-<div align="center">
-
-[![GitHub-Profil](https://img.shields.io/badge/GitHub-Profil_ansehen-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/PhilippBecksmann)
-
-[![Repositories](https://img.shields.io/badge/Meine-Repositories-0969DA?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/PhilippBecksmann?tab=repositories)
-
-</div>
+* nachvollziehbare Architektur
+* verständlicher und wartbarer Code
+* sinnvolle Dokumentation
+* sichere Konfiguration
+* praxisnahe Projekte
+* kontinuierliches Lernen
 
 ---
 
-## 🤝 Zusammenarbeit
+## Kontakt
 
-Ich interessiere mich besonders für Projekte aus den Bereichen:
-
-* AI Engineering
-* Agentic Coding
-* Python-Entwicklung
-* LLM-Agenten
-* Backend-Systeme
-* Automatisierung
-* Webanwendungen
-* FiveM-Entwicklung
+<p>
+  <a href="https://github.com/PhilippBecksmann">
+    <img src="https://img.shields.io/badge/GitHub-PhilippBecksmann-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
 <div align="center">
 
-### Lernen. Entwickeln. Automatisieren.
+### Vom Lernprojekt zur produktionsreifen Anwendung.
 
-Ich dokumentiere auf GitHub meinen Weg in die Softwareentwicklung und veröffentliche regelmäßig neue Lern- und Praxisprojekte.
-
-[![GitHub](https://img.shields.io/badge/GitHub-PhilippBecksmann-181717?style=for-the-badge\&logo=github)](https://github.com/PhilippBecksmann)
+**Building practical software with AI, one project at a time.**
 
 </div>
