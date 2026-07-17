@@ -142,11 +142,18 @@ Langfristig möchte ich:
 
 ---
 
-## GitHub-Statistiken
+## GitHub-Aktivitäten
 
-![Philipps GitHub Stats](https://github-readme-stats.vercel.app/api?username=PhilippBecksmann\&show_icons=true\&hide_border=true)
+Auf meinem GitHub dokumentiere ich meinen Weg in die Softwareentwicklung und veröffentliche eigene Lern- und Praxisprojekte.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilippBecksmann\&layout=compact\&hide_border=true)
+Meine aktuellen Schwerpunkte:
+
+- Python und KI-Anwendungen
+- Pydantic AI und LLM-Agenten
+- Backend- und API-Entwicklung
+- Automatisierungen und Agentic Coding
+- FiveM-Entwicklung mit Lua
+- Webentwicklung mit JavaScript
 
 ---
 
