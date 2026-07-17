@@ -204,15 +204,25 @@ Langfristig möchte ich:
 
 ---
 
-## 📊 GitHub-Statistiken
+## 📈 Mein GitHub-Profil
+
+Auf meinem GitHub-Profil dokumentiere ich meinen praktischen Lernweg und die Entwicklung meiner eigenen Projekte.
+
+Dabei arbeite ich aktuell vor allem an:
+
+* Python- und KI-Anwendungen
+* LLM-Agenten mit Pydantic AI
+* Agentic-Coding-Workflows
+* Backend- und API-Systemen
+* JavaScript- und Webprojekten
+* FiveM-Systemen mit Lua
+* sauber dokumentierten Praxisprojekten
 
 <div align="center">
 
-![Philipps GitHub Stats](https://github-readme-stats.vercel.app/api?username=PhilippBecksmann\&show_icons=true\&hide_border=true\&locale=de)
+[![GitHub-Profil](https://img.shields.io/badge/GitHub-Profil_ansehen-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/PhilippBecksmann)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilippBecksmann\&layout=compact\&hide_border=true\&locale=de)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=PhilippBecksmann\&hide_border=true\&locale=de)
+[![Repositories](https://img.shields.io/badge/Meine-Repositories-0969DA?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/PhilippBecksmann?tab=repositories)
 
 </div>
 
