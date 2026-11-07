@@ -110,7 +110,7 @@ Ein modularer KI-Chatbot mit Agentenlogik, validierten Ausgaben und einer benutz
 
 `Python` `Pydantic AI` `Gradio` `OpenAI API`
 
-[Repository öffnen →](https://github.com/PhilippBecksmann/Python-Bot-mit-Gradio-Pydantic)
+[Repository öffnen →](https://github.com/PhilippBecksmann/pydantic-ai-chatbot)
 
 </td>
 <td width="50%" valign="top">
@@ -148,7 +148,7 @@ Deutschsprachiger Kundensupport-Agent auf Basis des Claude Agent SDK mit vier ei
 
 `Python` `Claude Agent SDK` `MCP` `uv`
 
-[Repository öffnen →](https://github.com/PhilippBecksmann/Mein_Agent_Test)
+[Repository öffnen →](https://github.com/PhilippBecksmann/support-agent)
 
 </td>
 <td width="50%" valign="top">
