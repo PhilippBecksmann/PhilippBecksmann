@@ -26,7 +26,6 @@ Aktuell entwickle ich unter anderem:
 * Python-Backends und APIs
 * Finanz- und Datenanwendungen
 * Automatisierungen mit LLMs
-* FiveM-Ressourcen und Backend-Systeme
 
 Dabei arbeite ich intensiv mit Coding-Agenten wie **OpenAI Codex, Claude Code und Cursor**. GitHub nutze ich, um meine Projekte, Lernfortschritte und wachsende Erfahrung in der Softwareentwicklung zu dokumentieren.
 
@@ -115,31 +114,6 @@ Ein modularer KI-Chatbot mit Agentenlogik, validierten Ausgaben und einer benutz
 </td>
 <td width="50%" valign="top">
 
-### 🎮 Unwritten RP
-
-Ein FiveM- und GTA-V-Roleplay-Projekt mit eigener Verwaltungsoberfläche und Backend-Infrastruktur.
-
-**Schwerpunkte**
-
-* Administrationsoberfläche
-* Spieler- und Jobverwaltung
-* REST-Backend
-* Authentifizierung
-* Datenbankanbindung
-* eigene FiveM-Ressourcen
-
-**Technologien**
-
-`Node.js` `Express` `MySQL` `Lua` `JavaScript` `Linux`
-
-[Repository öffnen →](https://github.com/PhilippBecksmann/UnwrittenRP_Portfolio)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
 ### 🛟 Support-Agent
 
 Deutschsprachiger Kundensupport-Agent auf Basis des Claude Agent SDK mit vier eigenen Tools (Tickets, Bestellungen, FAQ, Eskalation).
@@ -151,6 +125,10 @@ Deutschsprachiger Kundensupport-Agent auf Basis des Claude Agent SDK mit vier ei
 [Repository öffnen →](https://github.com/PhilippBecksmann/support-agent)
 
 </td>
+</tr>
+
+<tr>
+
 <td width="50%" valign="top">
 
 ### 💾 Backup-Tool
@@ -174,19 +152,19 @@ Flask-Webanwendung, die Ordner rekursiv zu einem WebDAV-Server sichert – mit t
 ### Sprachen
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,lua,html,css" alt="Programmiersprachen" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css" alt="Programmiersprachen" />
 </p>
 
 ### Frontend und Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,fastapi" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,flask" alt="Frameworks" />
 </p>
 
 ### Datenbanken und Infrastruktur
 
 <p>
-  <img src="https://skillicons.dev/icons?i=prisma,mysql,sqlite,git,github,linux" alt="Datenbanken und Infrastruktur" />
+  <img src="https://skillicons.dev/icons?i=prisma,sqlite,git,github,linux" alt="Datenbanken und Infrastruktur" />
 </p>
 
 ### KI und Entwicklungswerkzeuge
@@ -238,7 +216,6 @@ Ich nutze KI nicht nur zur Codegenerierung, sondern als Bestandteil eines strukt
 ## Roadmap
 
 * [x] erste JavaScript-Anwendungen entwickeln
-* [x] eigenes FiveM-Backend umsetzen
 * [x] KI-Chatbot mit Pydantic AI entwickeln
 * [x] Deep-Research-Agent mit Websuche erstellen
 * [x] Full-Stack-Finanzanwendung starten
