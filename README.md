@@ -7,13 +7,15 @@
 Ich entwickle KI-gestützte Anwendungen, Webservices und Automatisierungen –
 von der ersten Idee über die Architektur bis zur funktionierenden Anwendung.
 
-📍 Hamburg, Deutschland
+📍 Hamburg, Deutschland · 🎓 Weiterbildung Python & KI (Coding Akademy München, online)
 
 </div>
 
 ---
 
 ## Über mich
+
+Ich absolviere eine einjährige Weiterbildung an der **Coding Akademy München** (komplett online von Hamburg aus): sechs Monate Python im Detail, danach sechs Monate KI. Hier dokumentiere ich meinen Lernweg mit echten Projekten.
 
 Mein Schwerpunkt liegt auf der Verbindung von **moderner KI mit klassischer Softwareentwicklung**.
 
@@ -31,14 +33,6 @@ Dabei arbeite ich intensiv mit Coding-Agenten wie **OpenAI Codex, Claude Code un
 ---
 
 ## Aktueller Fokus
-
-```text
-AI Agents       ███████████████████░
-Full-Stack      █████████████████░░░
-Backend         ████████████████░░░░
-Automation      ███████████████░░░░░
-FiveM / Lua     ████████████░░░░░░░░
-```
 
 * Entwicklung zuverlässiger LLM-Agenten
 * Agentic Coding und autonome Entwicklungsworkflows
@@ -139,6 +133,35 @@ Ein FiveM- und GTA-V-Roleplay-Projekt mit eigener Verwaltungsoberfläche und Bac
 `Node.js` `Express` `MySQL` `Lua` `JavaScript` `Linux`
 
 [Repository öffnen →](https://github.com/PhilippBecksmann/UnwrittenRP_Portfolio)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🛟 Support-Agent
+
+Deutschsprachiger Kundensupport-Agent auf Basis des Claude Agent SDK mit vier eigenen Tools (Tickets, Bestellungen, FAQ, Eskalation).
+
+**Technologien**
+
+`Python` `Claude Agent SDK` `MCP` `uv`
+
+[Repository öffnen →](https://github.com/PhilippBecksmann/Mein_Agent_Test)
+
+</td>
+<td width="50%" valign="top">
+
+### 💾 Backup-Tool
+
+Flask-Webanwendung, die Ordner rekursiv zu einem WebDAV-Server sichert – mit testbarer Struktur und Coverage ≥ 80 %.
+
+**Technologien**
+
+`Python` `Flask` `WebDAV` `pytest`
+
+[Repository öffnen →](https://github.com/PhilippBecksmann/Backup-Tool)
 
 </td>
 </tr>
