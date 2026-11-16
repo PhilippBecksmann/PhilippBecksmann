@@ -2,12 +2,9 @@
 
 # Hallo, ich bin Philipp 👋
 
-### AI · Full-Stack · Backend · Agentic Coding
+### Angehender Python-Entwickler · lernt Software Engineering und KI
 
-Ich entwickle KI-gestützte Anwendungen, Webservices und Automatisierungen –
-von der ersten Idee über die Architektur bis zur funktionierenden Anwendung.
-
-📍 Hamburg, Deutschland · 🎓 Weiterbildung Python & KI (Coding Akademy München, online)
+📍 Hamburg, Deutschland · 🎓 Weiterbildung an der Coding Akademy München (online)
 
 </div>
 
@@ -15,193 +12,13 @@ von der ersten Idee über die Architektur bis zur funktionierenden Anwendung.
 
 ## Über mich
 
-Ich absolviere eine einjährige Weiterbildung an der **Coding Akademy München** (komplett online von Hamburg aus): sechs Monate Python im Detail, danach sechs Monate KI. Hier dokumentiere ich meinen Lernweg mit echten Projekten.
+Ich mache eine einjährige Weiterbildung an der **Coding Akademy München**, komplett online von Hamburg aus: sechs Monate Python und Software Engineering, danach sechs Monate KI.
 
-Mein Schwerpunkt liegt auf der Verbindung von **moderner KI mit klassischer Softwareentwicklung**.
-
-Aktuell entwickle ich unter anderem:
-
-* autonome Recherche- und KI-Agenten
-* Full-Stack-Webanwendungen
-* Python-Backends und APIs
-* Finanz- und Datenanwendungen
-* Automatisierungen mit LLMs
-
-Dabei arbeite ich intensiv mit Coding-Agenten wie **OpenAI Codex, Claude Code und Cursor**. GitHub nutze ich, um meine Projekte, Lernfortschritte und wachsende Erfahrung in der Softwareentwicklung zu dokumentieren.
-
----
-
-## Aktueller Fokus
-
-* Entwicklung zuverlässiger LLM-Agenten
-* Agentic Coding und autonome Entwicklungsworkflows
-* Full-Stack-Anwendungen mit Next.js und TypeScript
-* APIs, Datenbanken und Backend-Architekturen
-* strukturierte Ausgaben und Tool Calling
-* saubere, wartbare Projektstrukturen
-
----
-
-## Ausgewählte Projekte
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 💶 Finanz-App
-
-Eine moderne Full-Stack-Anwendung zur Verwaltung und übersichtlichen Darstellung persönlicher Finanzen.
-
-**Schwerpunkte**
-
-* Finanz-Dashboard
-* Einnahmen und Ausgaben
-* moderne Benutzeroberfläche
-* persistente Datenspeicherung
-* strukturierte Full-Stack-Architektur
-
-**Technologien**
-
-`Next.js` `TypeScript` `Prisma` `React`
-
-[Repository öffnen →](https://github.com/PhilippBecksmann/Finanz-App)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔎 Deep Research Agent
-
-Ein KI-Agent, der Themen selbstständig zerlegt, aktuelle Quellen recherchiert, Webseiten vollständig ausliest und daraus einen strukturierten Bericht erstellt.
-
-**Schwerpunkte**
-
-* mehrstufige Rechercheplanung
-* Live-Suche mit DuckDuckGo
-* Deep Reading von Webseiten
-* LLM-gestützte Zusammenfassungen
-* Berichte mit Quellenangaben
-
-**Technologien**
-
-`Python` `Pydantic AI` `Gradio` `OpenAI` `DuckDuckGo` `httpx`
-
-[Repository öffnen →](https://github.com/PhilippBecksmann/Deep-Research)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Python AI Chatbot
-
-Ein modularer KI-Chatbot mit Agentenlogik, validierten Ausgaben und einer benutzerfreundlichen Chatoberfläche.
-
-**Schwerpunkte**
-
-* OpenAI-Modellanbindung
-* Pydantic-AI-Agent
-* strukturierte Ausgaben
-* Gradio-Frontend
-* sichere Konfiguration mit Umgebungsvariablen
-
-**Technologien**
-
-`Python` `Pydantic AI` `Gradio` `OpenAI API`
-
-[Repository öffnen →](https://github.com/PhilippBecksmann/pydantic-ai-chatbot)
-
-</td>
-<td width="50%" valign="top">
-
-### 🛟 Support-Agent
-
-Deutschsprachiger Kundensupport-Agent auf Basis des Claude Agent SDK mit vier eigenen Tools (Tickets, Bestellungen, FAQ, Eskalation).
-
-**Technologien**
-
-`Python` `Claude Agent SDK` `MCP` `uv`
-
-[Repository öffnen →](https://github.com/PhilippBecksmann/support-agent)
-
-</td>
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 💾 Backup-Tool
-
-Flask-Webanwendung, die Ordner rekursiv zu einem WebDAV-Server sichert – mit testbarer Struktur und Coverage ≥ 80 %.
-
-**Technologien**
-
-`Python` `Flask` `WebDAV` `pytest`
-
-[Repository öffnen →](https://github.com/PhilippBecksmann/Backup-Tool)
-
-</td>
-</tr>
-</table>
-
----
-
-## Technologien
-
-### Sprachen
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css" alt="Programmiersprachen" />
-</p>
-
-### Frontend und Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,flask" alt="Frameworks" />
-</p>
-
-### Datenbanken und Infrastruktur
-
-<p>
-  <img src="https://skillicons.dev/icons?i=prisma,sqlite,git,github,linux" alt="Datenbanken und Infrastruktur" />
-</p>
-
-### KI und Entwicklungswerkzeuge
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,docker,postman" alt="Entwicklungswerkzeuge" />
-</p>
-
-`Pydantic AI` · `Gradio` · `OpenAI API` · `LLM Tool Calling` · `Cursor` · `Claude Code` · `OpenAI Codex`
-
----
-
-## Wie ich entwickle
-
-```mermaid
-flowchart LR
-    A[Idee] --> B[Anforderungen]
-    B --> C[Architektur]
-    C --> D[Agentic Coding]
-    D --> E[Testen]
-    E --> F[Dokumentation]
-    F --> G[Deployment]
-```
-
-Ich nutze KI nicht nur zur Codegenerierung, sondern als Bestandteil eines strukturierten Entwicklungsprozesses:
-
-1. Anforderungen und Ziele definieren
-2. Architektur und Datenmodelle planen
-3. Coding-Agenten mit klaren Regeln steuern
-4. Ergebnisse prüfen, testen und verbessern
-5. Projekte dokumentieren und veröffentlichen
+Hier dokumentiere ich meinen Lernweg. Neben den Kursaufgaben baue ich eigene Projekte rund um KI-Agenten, Webanwendungen und Automatisierung. Dabei arbeite ich mit Coding-Agenten wie Claude Code, OpenAI Codex und Cursor. Mein Ziel ist, den Code nicht nur erzeugen zu lassen, sondern ihn zu verstehen, zu prüfen und zu verbessern.
 
 ---
 
 ## Mein Lernweg an der Coding Akademy München
-
-Einjährige Weiterbildung, komplett online: **6 Monate Python und Software Engineering**, danach **6 Monate KI**.
 
 | Wochen | Thema |
 |--------|-------|
@@ -212,52 +29,61 @@ Einjährige Weiterbildung, komplett online: **6 Monate Python und Software Engin
 | 13-15 | Objektorientiertes Design: OOAD, GRASP, SOLID, Entwurfsmuster |
 | 16-17 | Git und Kommandozeile, Module und Packages |
 | 18-19 | Dateien, Ein-/Ausgabe, Datenbanken und SQL |
-| 20-24 | Kommandozeilen-Apps mit Typer und Capstone-Projekte (Rezeptverwaltung, Finanzverwaltung, eigene Projektarbeit) |
-
-Projekte aus dem Kurs: [Lottospiel](https://github.com/PhilippBecksmann/Lottospiel) (Funktionen, Schleifen, Listen).
+| 20-24 | Kommandozeilen-Apps mit Typer und Capstone-Projekte |
 
 ---
 
-## Derzeit lerne und vertiefe ich
+## Projekte
 
-* professionelle Python- und TypeScript-Entwicklung
-* Next.js und moderne React-Anwendungen
-* Pydantic AI und Multi-Agent-Systeme
-* Tool Calling und strukturierte LLM-Ausgaben
-* API-Design und Backend-Architektur
-* Datenmodellierung mit Prisma und SQL
-* Testing und Fehlerbehandlung
-* Docker, Deployment und CI/CD
-* Agentic Coding mit Codex, Claude Code und Cursor
+### Aus dem Kurs
 
----
+| Projekt | Beschreibung | Technologien |
+|---------|--------------|--------------|
+| [Lottospiel](https://github.com/PhilippBecksmann/Lottospiel) | Lotto für die Konsole mit bis zu 12 Tippfeldern, Superzahl und Eingabeprüfung | `Python` |
 
-## Roadmap
+### Eigene Projekte (mit Coding-Agenten gebaut)
 
-* [x] erste JavaScript-Anwendungen entwickeln
-* [x] KI-Chatbot mit Pydantic AI entwickeln
-* [x] Deep-Research-Agent mit Websuche erstellen
-* [x] Full-Stack-Finanzanwendung starten
-* [ ] automatisierte Tests und CI/CD integrieren
-* [ ] Anwendungen mit Docker bereitstellen
-* [ ] produktionsreife KI-Webservices entwickeln
-* [ ] komplexere Multi-Agent-Workflows umsetzen
-* [ ] eigenes SaaS-Produkt veröffentlichen
+| Projekt | Beschreibung | Technologien |
+|---------|--------------|--------------|
+| [Finanz-App](https://github.com/PhilippBecksmann/Finanz-App) | Full-Stack-Anwendung zur Verwaltung und Darstellung persönlicher Finanzen | `Next.js` `TypeScript` `Prisma` |
+| [Deep-Research](https://github.com/PhilippBecksmann/Deep-Research) | KI-Agent für mehrstufige Web-Recherche mit Berichten und Quellenangaben | `Python` `Pydantic AI` `Gradio` |
+| [pydantic-ai-chatbot](https://github.com/PhilippBecksmann/pydantic-ai-chatbot) | Modularer KI-Chatbot mit strukturierten Ausgaben und Chat-Oberfläche | `Python` `Pydantic AI` `Gradio` |
+| [support-agent](https://github.com/PhilippBecksmann/support-agent) | Deutschsprachiger Kundensupport-Agent mit eigenen Tools (Tickets, Bestellungen, FAQ) | `Python` `Claude Agent SDK` `MCP` |
+| [Backup-Tool](https://github.com/PhilippBecksmann/Backup-Tool) | Flask-App, die Ordner rekursiv auf einen WebDAV-Server sichert, mit Tests (Coverage ≥ 80 %) | `Python` `Flask` `pytest` |
 
 ---
 
-## Entwicklungsprinzipien
+## Technologien
 
-> Nicht nur Code erzeugen lassen, sondern verstehen, strukturieren, prüfen und kontinuierlich verbessern.
+<p>
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,nextjs,react,flask,prisma,git,github,vscode" alt="Technologien" />
+</p>
 
-Mir sind besonders wichtig:
+`Pydantic AI` · `Gradio` · `OpenAI API` · `Claude Agent SDK` · `MCP` · `pytest` · `uv`
 
-* nachvollziehbare Architektur
-* verständlicher und wartbarer Code
-* sinnvolle Dokumentation
-* sichere Konfiguration
-* praxisnahe Projekte
-* kontinuierliches Lernen
+---
+
+## Wie ich arbeite
+
+1. Ziel und Anforderungen klären
+2. Coding-Agenten mit klaren Regeln steuern
+3. Ergebnisse lesen, testen und verbessern
+4. Projekt dokumentieren und veröffentlichen
+
+> Nicht nur Code erzeugen lassen, sondern verstehen, prüfen und kontinuierlich verbessern.
+
+---
+
+## Nächste Schritte
+
+* [x] erste JavaScript-Anwendungen (Udemy-Kurs)
+* [x] erste KI-Agenten und Chatbots mit Pydantic AI
+* [x] Python-Grundlagen im Kurs
+* [ ] Testen mit pytest und TDD, auch für eigene Projekte
+* [ ] objektorientiertes Design und Entwurfsmuster
+* [ ] Datenbanken und SQL
+* [ ] Capstone-Projekte im Kurs
+* [ ] KI-Teil der Weiterbildung
 
 ---
 
@@ -268,13 +94,3 @@ Mir sind besonders wichtig:
     <img src="https://img.shields.io/badge/GitHub-PhilippBecksmann-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </p>
-
----
-
-<div align="center">
-
-### Vom Lernprojekt zur produktionsreifen Anwendung.
-
-**Building practical software with AI, one project at a time.**
-
-</div>
