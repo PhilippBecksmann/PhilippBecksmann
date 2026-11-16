@@ -199,6 +199,25 @@ Ich nutze KI nicht nur zur Codegenerierung, sondern als Bestandteil eines strukt
 
 ---
 
+## Mein Lernweg an der Coding Akademy München
+
+Einjährige Weiterbildung, komplett online: **6 Monate Python und Software Engineering**, danach **6 Monate KI**.
+
+| Wochen | Thema |
+|--------|-------|
+| 1-4 | Werkzeuge, Syntax und Datentypen, Funktionen, Kontrollfluss und Listen *(aktuell)* |
+| 5-6 | Testen mit pytest, Unit-Tests und TDD |
+| 7-9 | Datenstrukturen, Dictionaries, Mengen, reguläre Ausdrücke, Comprehensions, Enums |
+| 10-12 | Fortgeschrittene Funktionen, Klassen und Objekte, Fehlerbehandlung |
+| 13-15 | Objektorientiertes Design: OOAD, GRASP, SOLID, Entwurfsmuster |
+| 16-17 | Git und Kommandozeile, Module und Packages |
+| 18-19 | Dateien, Ein-/Ausgabe, Datenbanken und SQL |
+| 20-24 | Kommandozeilen-Apps mit Typer und Capstone-Projekte (Rezeptverwaltung, Finanzverwaltung, eigene Projektarbeit) |
+
+Projekte aus dem Kurs: [Lottospiel](https://github.com/PhilippBecksmann/Lottospiel) (Funktionen, Schleifen, Listen).
+
+---
+
 ## Derzeit lerne und vertiefe ich
 
 * professionelle Python- und TypeScript-Entwicklung
