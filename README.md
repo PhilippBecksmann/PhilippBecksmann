@@ -14,7 +14,9 @@
 
 Ich mache eine einjährige Weiterbildung an der **Coding Akademy München**, komplett online von Hamburg aus: sechs Monate Python und Software Engineering, danach sechs Monate KI.
 
-Hier dokumentiere ich meinen Lernweg. Neben den Kursaufgaben baue ich eigene Projekte rund um KI-Agenten, Webanwendungen und Automatisierung. Dabei arbeite ich mit Coding-Agenten wie Claude Code, OpenAI Codex und Cursor. Mein Ziel ist, den Code nicht nur erzeugen zu lassen, sondern ihn zu verstehen, zu prüfen und zu verbessern.
+**Den gesamten Code in der Python-Weiterbildung schreibe ich selbst, ohne KI.** Der Kurs legt großen Wert auf **Clean Code**, den wir sehr intensiv und in der Tiefe lernen: sauberer, lesbarer und wartbarer Code, Tests, objektorientiertes Design und Entwurfsmuster.
+
+Getrennt davon baue ich eigene Projekte rund um KI-Agenten, Webanwendungen und Automatisierung. Diese Projekte entstehen mit Coding-Agenten wie Claude Code, OpenAI Codex und Cursor und sind unten gekennzeichnet. Mein Ziel ist auch dort, den Code zu verstehen, zu prüfen und zu verbessern.
 
 ---
 
@@ -26,7 +28,7 @@ Hier dokumentiere ich meinen Lernweg. Neben den Kursaufgaben baue ich eigene Pro
 | 5-6 | Testen mit pytest, Unit-Tests und TDD |
 | 7-9 | Datenstrukturen, Dictionaries, Mengen, reguläre Ausdrücke, Comprehensions, Enums |
 | 10-12 | Fortgeschrittene Funktionen, Klassen und Objekte, Fehlerbehandlung |
-| 13-15 | Objektorientiertes Design: OOAD, GRASP, SOLID, Entwurfsmuster |
+| 13-15 | Clean Code und objektorientiertes Design: OOAD, GRASP, SOLID, Entwurfsmuster |
 | 16-17 | Git und Kommandozeile, Module und Packages |
 | 18-19 | Dateien, Ein-/Ausgabe, Datenbanken und SQL |
 | 20-24 | Kommandozeilen-Apps mit Typer und Capstone-Projekte |
@@ -35,11 +37,13 @@ Hier dokumentiere ich meinen Lernweg. Neben den Kursaufgaben baue ich eigene Pro
 
 ## Projekte
 
-### Aus dem Kurs
+### Aus dem Kurs (selbst geschrieben, ohne KI)
 
 | Projekt | Beschreibung | Technologien |
 |---------|--------------|--------------|
 | [Lottospiel](https://github.com/PhilippBecksmann/Lottospiel) | Lotto für die Konsole mit bis zu 12 Tippfeldern, Superzahl und Eingabeprüfung | `Python` |
+
+Weitere Kursprojekte kommen nach und nach dazu.
 
 ### Eigene Projekte (mit Coding-Agenten gebaut)
 
@@ -63,7 +67,9 @@ Hier dokumentiere ich meinen Lernweg. Neben den Kursaufgaben baue ich eigene Pro
 
 ---
 
-## Wie ich arbeite
+## Wie ich bei eigenen KI-Projekten arbeite
+
+(Gilt nicht für den Kurscode, den schreibe ich selbst.)
 
 1. Ziel und Anforderungen klären
 2. Coding-Agenten mit klaren Regeln steuern
